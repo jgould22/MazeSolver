@@ -1,7 +1,7 @@
 # MazeSolver
 A simple java program to implement a Graph ADT and solve a maze
 
-This program was completed as part of CS 2210 Introduction to algorithsm, Board.java and DrawLab.java were prvided as part of the assignment while I wrote the rest
+This program was completed as part of CS 2210 Introduction to algorithms, Board.java and DrawLab.java were prvided as part of the assignment while I wrote the rest
 
 ### Compile 
 
