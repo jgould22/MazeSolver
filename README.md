@@ -27,4 +27,4 @@ They are formatted as follows
   * "s" and "e" are start and exit
   
 ### Test Graph ADT
-To test the graph run "java Test" fromt the src folder
+To test the graph run "java TestGraph" from the src folder
